@@ -1,4 +1,4 @@
-#  Breaking bad coding challenge notes
+#  Breaking bad demo notes
 
 ## Architecture
 
