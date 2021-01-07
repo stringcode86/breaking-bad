@@ -68,7 +68,7 @@
 		9F5C44F925A5B2C7002CDA9B /* UIImgeView+Cache.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImgeView+Cache.swift"; sourceTree = "<group>"; };
 		9F5C450025A5B2C7002CDA9B /* ImageCacheService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageCacheService.swift; sourceTree = "<group>"; };
 		9F5C45A825A6EE64002CDA9B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		9F5C45E625A71F46002CDA9B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		9F5C45ED25A72422002CDA9B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		9F80B95325A5A99B007A75A8 /* BreakingBad.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BreakingBad.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F80B95625A5A99B007A75A8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9F80B95825A5A99B007A75A8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -221,7 +221,7 @@
 				9F80B95F25A5A99D007A75A8 /* Assets.xcassets */,
 				9F80B96125A5A99D007A75A8 /* LaunchScreen.storyboard */,
 				9F80B96425A5A99D007A75A8 /* Info.plist */,
-				9F5C45E625A71F46002CDA9B /* README.md */,
+				9F5C45ED25A72422002CDA9B /* README.md */,
 			);
 			path = BreakingBad;
 			sourceTree = "<group>";
