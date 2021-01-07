@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cde7d07-2b60-43a5-85a8-4f356a7e3e20" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BreakingBad.xcodeproj/project.xcworkspace/xcuserdata/stringcode.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad.xcodeproj/xcuserdata/stringcode.xcuserdatad/xcschemes/BreakingBad.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/Icon@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_20pt-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_20pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_20pt@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_29pt-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_29pt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_29pt@2x-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_29pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_29pt@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_40pt-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_40pt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_40pt@2x-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_40pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_40pt@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_60pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_60pt@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_76pt-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_76pt@2x-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/icon_83.5@2x-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/icon.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/icon.imageset/Oval-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/icon.imageset/Oval.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/icon.imageset/Oval@2x-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/icon.imageset/Oval@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/icon.imageset/Oval@3x-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/icon.imageset/Oval@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Common/Services/CharactersService/Character.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Common/Services/CharactersService/CharactersService.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Modules/CharacterDetail/CharacterDetailView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Modules/CharacterDetail/CharacterDetailViewModel.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Modules/CharacterDetail/CharacterDetailWireframe.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Modules/CharacterDetail/CharacterDetailWireframeFactory.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Modules/CharacterDetail/CharacterPresenter.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Modules/Characters/CharacterCell.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Modules/Characters/CharactersInteractor.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Modules/Characters/CharactersPresenter.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Modules/Characters/CharactersView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Modules/Characters/CharactersViewModel.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Modules/Characters/CharactersWireframe.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/Modules/Characters/CharactersWireframeFactory.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BreakingBad/main.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakingBad.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/BreakingBad.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakingBad.xcodeproj/xcuserdata/stringcode.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/BreakingBad.xcodeproj/xcuserdata/stringcode.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakingBad/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/BreakingBad/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/BreakingBad/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakingBad/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/BreakingBad/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakingBad/SceneDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/BreakingBad/SceneDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakingBad/ViewController.swift" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphonesimulator_1AF418F9-034E-48B5-AAE9-9917E11F92F1" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mghQrHrc1peQSFg2yCqjzq8EdW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="BreakingBad" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BreakingBad" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BreakingBad" TARGET_NAME="BreakingBad" CONFIG_NAME="Debug" SCHEME_NAME="BreakingBad" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" RUN_TARGET_PROJECT_NAME="BreakingBad" RUN_TARGET_NAME="BreakingBad" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cde7d07-2b60-43a5-85a8-4f356a7e3e20" name="Default Changelist" comment="" />
+      <created>1609921131796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609921131796</updated>
+      <workItem from="1609921133347" duration="21004000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
